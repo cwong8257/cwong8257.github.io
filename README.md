@@ -1,3 +1,3 @@
 # Portfolio
 
-Visit my [portfolio](www.christopherwong.us/)
+Visit my [portfolio](http://www.christopherwong.us/)
